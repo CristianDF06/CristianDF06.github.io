@@ -1,0 +1,136 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.azul {
+    background: #3766d2;
+}
+
+h1{
+    font-weight: 800;
+    font-size: 50px;
+    color:#3766d2;
+}
+
+h2{
+    font-weight: 600;
+    font-size: 25px;
+    color:#212529;
+}
+
+.perfil{
+    font-weight: 300;
+    font-size: 20px;
+}
+
+h4{
+    font-weight: 800;
+    font-size: 50px;
+    color:#3766d2;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+
+h5 {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+
+p {
+    font-weight: 300;
+    font-size: 15px;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 23px;
+}
+
+.precio {
+    font-size: 13px;
+    padding-right: 5px;
+}
+
+.btn {
+    color:#212529;
+    text-align: center;
+    background: #F8F9FA;
+ }
+
+ .imagen{
+     width: 100px;
+ }
+
+ .card-img-top{
+    width: 100%;
+	height: 50%;
+	object-fit: cover;
+ }
+
+.descripción {
+	margin: 0;
+	padding: 60px 0;
+}
+
+.contenido {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.desc-contenido {
+	width: 50%;
+	display: inline-block;
+	padding-right: 60px;
+	text-align: justify;
+	vertical-align: middle;
+}
+
+.desc-img {
+	display: inline-block;
+	width: 40%;	
+	vertical-align: middle;
+}
+
+.desc-img img {
+	width: 100%;
+}
+
+footer{
+    padding: 20px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+}
+
+.contenedor-footer{
+    display: flex;
+    width: 80%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #ccc;
+    color: #fff;
+}
+
+.content-foo a{
+    font-size: 2rem;
+}
+
+.titulo-final{
+    text-align: center;
+    font-size: 15px;
+    margin: 10px 0 0 0;
+    color: #3766d2;
+}
+
+.btn-outline-info {
+    color: #3766d2;
+    border-color: #3766d2;
+  }
+
+.btn-outline-info:hover {
+    color: #fff;
+    background-color: #3766d2;
+    border-color: #3766d2;
+  }
